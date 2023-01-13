@@ -1,0 +1,168 @@
+.row {
+  display: flex;
+  flex-wrap: nowrap;
+  }    
+nav {
+    margin-top: 1%;
+    background-color:aqua;
+    min-height: 8em;
+    padding: 0.5em;  
+    width: 18%;
+    text-align: center;  
+    border-radius: 10px;
+}
+header{
+    padding: 0.5em;  
+    text-align: center;  
+    background-color: rgb(143, 143, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+}
+main{
+    width: 100%;
+    background-color: rgb(214, 73, 73);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 1%;
+    margin-left: 1%;
+    border-radius: 10px;
+}
+footer{
+    height: 80px;
+    background-color: rgb(143, 143, 255);
+    margin-top: 1%;
+    border-radius: 10px;
+    text-align: center;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 2%;
+    font-size: 30px;
+}
+#index{
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color:black ;
+}
+a:hover{
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 16px;
+
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+article{
+    margin-left: 2%;
+    margin-right: 2%;
+    display: inline;
+    text-align: justify;
+}
+section{
+    height: 40px;
+    width: 10%;
+    display: inline-block;
+    margin-left: 2%;
+    margin-top: 1.5%;
+}
+.article2{
+    margin-right: 2%;
+    float: left;
+    display: inline;
+    text-align: justify;
+}
+.seccionSilary{
+    display: inline;
+}
+
+/*PICTURES*/
+
+.imgSimilary1{
+    float: left;
+    width: 150px; 
+    height: auto;
+    margin-top: 7px;
+}
+.imgSimilary2{
+    width: 150px; 
+    height: auto;
+    float:light;
+    margin-top: 7px;
+}
+
+.imgFigureGround{
+    width: 200px;
+    height: auto;
+    margin-top: 7px;
+}
+.imgProximity1{
+    float: left;
+    width: 200px; 
+    height: auto;
+    margin-top: 7px;
+}
+.imgProximity2{
+    float: left;
+    width: 200px; 
+    height: auto;
+    margin-left: 20px;
+    margin-top: 7px;
+}
+.imgContinuity2{
+    float: left;
+    width: 200px; 
+    height: auto;
+    margin-top: 7px;
+}
+.imgContinuity1{
+    float: left;
+    width: 330px; 
+    height: auto;
+    margin-left: 20px;
+    margin-top: 7px;
+}
+.imgcommonRegion1{
+    float: left;
+    width: 230px; 
+    height: auto;
+    margin-top: 7px;
+}
+.imgcommonRegion2{
+    float: left;
+    width: 300px; 
+    height: auto;
+    margin-left: 20px;
+    margin-top: 7px;
+}
+.imgClosure1{
+    float: left;
+    width: 200px; 
+    height: auto;
+    margin-top: 7px;
+}
+.imgclosure2{
+    float: left;
+    width: 230px; 
+    height: auto;
+    margin-left: 20px;
+    margin-top: 7px;
+}
+.imgFocalPoint1{
+    float: left;
+    width: 200px; 
+    height: auto;
+    margin-top: 7px;
+}
+.imgFocalPoint2{
+    float: left;
+    width: 300px; 
+    height: auto;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 7px;
+}
